@@ -1,0 +1,9 @@
+# 忽略node_modules文件夹
+node_modules/
+# 忽略打包后的dist文件夹
+dist/
+# 忽略配置文件
+.eslintrc.cjs
+.prettierrc
+# 忽略README.md
+README.md
