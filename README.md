@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-tech-blog
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -71,3 +72,7 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+=======
+# game-dev-blog-v2
+《蓉城游戏开发者技术社区（vue3多段响应博客）》
+>>>>>>> 72e51b1a3180528e3567d912756c7f461b2e0fb3
